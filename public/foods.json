@@ -1,0 +1,15 @@
+[
+    {
+        "meal_name": "",
+        "meal_category": "",
+        "meal_thumb": "",
+        "meal_description": "",
+        "meal_price": "",
+        "meal_added": "",
+        "author": {
+            "username": "",
+            "email": "",
+            "profile_thumb": ""
+        }
+    }
+]
