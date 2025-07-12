@@ -1,15 +1,275 @@
 [
-    {
-        "meal_name": "",
-        "meal_category": "",
-        "meal_thumb": "",
-        "meal_description": "",
-        "meal_price": "",
-        "meal_added": "",
-        "author": {
-            "username": "",
-            "email": "",
-            "profile_thumb": ""
-        }
+  {
+    "meal_name": "Caesar Salad",
+    "meal_category": "salad",
+    "meal_thumb": "https://i.ibb.co/20NM1H6Z/caesar-salad.jpg",
+    "meal_description": "Classic Caesar salad with romaine lettuce, parmesan, and croutons.",
+    "meal_price": "6.50",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
     }
+  },
+  {
+    "meal_name": "Greek Salad",
+    "meal_category": "salad",
+    "meal_thumb": "https://i.ibb.co/20NM1H6Z/caesar-salad.jpg",
+    "meal_description": "Fresh salad with cucumbers, tomatoes, olives, and feta cheese.",
+    "meal_price": "7.20",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  },
+  {
+    "meal_name": "Tomato Basil Soup",
+    "meal_category": "soup",
+    "meal_thumb": "https://i.ibb.co/ymmnQPrf/tomato-sasil-soup.jpg",
+    "meal_description": "Smooth tomato soup with fresh basil and a hint of cream.",
+    "meal_price": "5.75",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  },
+  {
+    "meal_name": "Minestrone Soup",
+    "meal_category": "soup",
+    "meal_thumb": "https://i.ibb.co/ymmnQPrf/tomato-sasil-soup.jpg",
+    "meal_description": "Hearty Italian vegetable soup with beans and pasta.",
+    "meal_price": "6.10",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  },
+  {
+    "meal_name": "Margherita Pizza",
+    "meal_category": "pizza",
+    "meal_thumb": "https://i.ibb.co/6JPR1G7F/margherita-pizza.jpg",
+    "meal_description": "Classic pizza with tomatoes, mozzarella, and fresh basil.",
+    "meal_price": "11.99",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  },
+  {
+    "meal_name": "Pepperoni Pizza",
+    "meal_category": "pizza",
+    "meal_thumb": "https://i.ibb.co/6JPR1G7F/margherita-pizza.jpg",
+    "meal_description": "Spicy pepperoni slices over mozzarella cheese and tomato sauce.",
+    "meal_price": "12.50",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  },
+  {
+    "meal_name": "BBQ Chicken Pizza",
+    "meal_category": "pizza",
+    "meal_thumb": "https://i.ibb.co/6JPR1G7F/margherita-pizza.jpg",
+    "meal_description": "Grilled chicken with BBQ sauce, red onions, and mozzarella.",
+    "meal_price": "13.10",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  },
+  {
+    "meal_name": "Veggie Supreme Pizza",
+    "meal_category": "pizza",
+    "meal_thumb": "https://i.ibb.co/6JPR1G7F/margherita-pizza.jpg",
+    "meal_description": "Loaded with bell peppers, olives, onions, and mushrooms.",
+    "meal_price": "11.75",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  },
+  {
+    "meal_name": "Chocolate Lava Cake",
+    "meal_category": "dessert",
+    "meal_thumb": "https://i.ibb.co/Txc8k89V/chocolate-lava-cakes.jpg",
+    "meal_description": "Warm chocolate cake with gooey molten center.",
+    "meal_price": "6.00",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  },
+  {
+    "meal_name": "Strawberry Cheesecake",
+    "meal_category": "dessert",
+    "meal_thumb": "https://i.ibb.co/Txc8k89V/chocolate-lava-cakes.jpg",
+    "meal_description": "Creamy cheesecake topped with fresh strawberries.",
+    "meal_price": "6.80",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  },
+  {
+    "meal_name": "Tiramisu",
+    "meal_category": "dessert",
+    "meal_thumb": "https://i.ibb.co/Txc8k89V/chocolate-lava-cakes.jpg",
+    "meal_description": "Italian coffee-flavored dessert with mascarpone and cocoa.",
+    "meal_price": "7.50",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  },
+  {
+    "meal_name": "Mango Mousse",
+    "meal_category": "dessert",
+    "meal_thumb": "https://i.ibb.co/Txc8k89V/chocolate-lava-cakes.jpg",
+    "meal_description": "Light mango mousse with a creamy tropical flavor.",
+    "meal_price": "5.90",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  },
+  {
+    "meal_name": "Iced Lemon Tea",
+    "meal_category": "drinks",
+    "meal_thumb": "https://i.ibb.co/277v2zCx/lemon-Iced-Tea.jpg",
+    "meal_description": "Refreshing lemon iced tea with a splash of mint.",
+    "meal_price": "2.50",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  },
+  {
+    "meal_name": "Strawberry Smoothie",
+    "meal_category": "drinks",
+    "meal_thumb": "https://i.ibb.co/277v2zCx/lemon-Iced-Tea.jpg",
+    "meal_description": "Blended strawberry smoothie with yogurt and honey.",
+    "meal_price": "3.80",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  },
+  {
+    "meal_name": "Mocha Frappe",
+    "meal_category": "drinks",
+    "meal_thumb": "https://i.ibb.co/277v2zCx/lemon-Iced-Tea.jpg",
+    "meal_description": "Icy mocha frappe with whipped cream and chocolate drizzle.",
+    "meal_price": "4.20",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  },
+  {
+    "meal_name": "Carrot Ginger Soup",
+    "meal_category": "soup",
+    "meal_thumb": "https://i.ibb.co/ymmnQPrf/tomato-sasil-soup.jpg",
+    "meal_description": "Smooth carrot soup with a hint of fresh ginger.",
+    "meal_price": "5.90",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  },
+  {
+    "meal_name": "Caprese Salad",
+    "meal_category": "salad",
+    "meal_thumb": "https://i.ibb.co/20NM1H6Z/caesar-salad.jpg",
+    "meal_description": "Fresh tomatoes, mozzarella, and basil with olive oil drizzle.",
+    "meal_price": "7.00",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  },
+  {
+    "meal_name": "Spinach Strawberry Salad",
+    "meal_category": "salad",
+    "meal_thumb": "https://i.ibb.co/20NM1H6Z/caesar-salad.jpg",
+    "meal_description": "Baby spinach, strawberries, walnuts, and balsamic dressing.",
+    "meal_price": "7.30",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  },
+  {
+    "meal_name": "Blueberry Cheesecake Shake",
+    "meal_category": "drinks",
+    "meal_thumb": "https://i.ibb.co/277v2zCx/lemon-Iced-Tea.jpg",
+    "meal_description": "Rich shake with blueberry, cream cheese, and vanilla.",
+    "meal_price": "4.80",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  },
+  {
+    "meal_name": "Fudge Brownie",
+    "meal_category": "dessert",
+    "meal_thumb": "https://i.ibb.co/Txc8k89V/chocolate-lava-cakes.jpg",
+    "meal_description": "Chocolate fudge brownie with a crispy top and soft center.",
+    "meal_price": "5.30",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  },
+  {
+    "meal_name": "Chicken Corn Soup",
+    "meal_category": "soup",
+    "meal_thumb": "https://i.ibb.co/ymmnQPrf/tomato-sasil-soup.jpg",
+    "meal_description": "Comforting soup with chicken, corn, and egg ribbons.",
+    "meal_price": "6.25",
+    "meal_added": "2025-07-11",
+    "author": {
+      "username": "Walidur Tanjim",
+      "email": "mohammadtanjim91@gmail.com",
+      "profile_thumb": "https://preview.redd.it/show-me-the-cutest-pic-of-doraemon-you-got-this-ones-my-v0-q4jq5d2rojod1.png?auto=webp&s=ff3d8c767883634ce6542089883650d36e351bf5"
+    }
+  }
 ]

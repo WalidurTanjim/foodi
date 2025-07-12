@@ -22,7 +22,7 @@ const Banner = () => {
     const [thumbsSwiper, setThumbsSwiper] = useState(null);
 
     return (
-        <section className='banner rounded-lg'>
+        <section className='banner rounded-lg pb-14'>
             <Swiper style={{
                 '--swiper-navigation-color': '#fff',
                 '--swiper-pagination-color': '#fff'
